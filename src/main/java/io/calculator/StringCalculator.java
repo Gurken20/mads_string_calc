@@ -3,7 +3,7 @@ package io.calculator;
 import java.util.Arrays;
 
 public class StringCalculator {
-
+    
     public int add(String input) {
         String[] numbers;
         //if (input.contains("\\n")) {
